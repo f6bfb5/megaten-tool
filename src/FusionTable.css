@@ -1,0 +1,49 @@
+table.fusiontable {
+  border-collapse: collapse;
+}
+
+table.fusiontable tbody>tr:hover {
+  background: #242424;
+}
+
+table.fusiontable:has(tr > *:nth-child(1):hover) tr>*:nth-child(1),
+table.fusiontable:has(tr > *:nth-child(2):hover) tr>*:nth-child(2),
+table.fusiontable:has(tr > *:nth-child(3):hover) tr>*:nth-child(3),
+table.fusiontable:has(tr > *:nth-child(4):hover) tr>*:nth-child(4),
+table.fusiontable:has(tr > *:nth-child(5):hover) tr>*:nth-child(5),
+table.fusiontable:has(tr > *:nth-child(6):hover) tr>*:nth-child(6),
+table.fusiontable:has(tr > *:nth-child(7):hover) tr>*:nth-child(7),
+table.fusiontable:has(tr > *:nth-child(8):hover) tr>*:nth-child(8),
+table.fusiontable:has(tr > *:nth-child(9):hover) tr>*:nth-child(9),
+table.fusiontable:has(tr > *:nth-child(10):hover) tr>*:nth-child(10),
+table.fusiontable:has(tr > *:nth-child(11):hover) tr>*:nth-child(11),
+table.fusiontable:has(tr > *:nth-child(12):hover) tr>*:nth-child(12),
+table.fusiontable:has(tr > *:nth-child(13):hover) tr>*:nth-child(13),
+table.fusiontable:has(tr > *:nth-child(14):hover) tr>*:nth-child(14),
+table.fusiontable:has(tr > *:nth-child(15):hover) tr>*:nth-child(15),
+table.fusiontable:has(tr > *:nth-child(16):hover) tr>*:nth-child(16),
+table.fusiontable:has(tr > *:nth-child(17):hover) tr>*:nth-child(17),
+table.fusiontable:has(tr > *:nth-child(18):hover) tr>*:nth-child(18),
+table.fusiontable:has(tr > *:nth-child(19):hover) tr>*:nth-child(19),
+table.fusiontable:has(tr > *:nth-child(20):hover) tr>*:nth-child(20),
+table.fusiontable:has(tr > *:nth-child(21):hover) tr>*:nth-child(21),
+table.fusiontable:has(tr > *:nth-child(22):hover) tr>*:nth-child(22),
+table.fusiontable:has(tr > *:nth-child(23):hover) tr>*:nth-child(23),
+table.fusiontable:has(tr > *:nth-child(24):hover) tr>*:nth-child(24),
+table.fusiontable:has(tr > *:nth-child(25):hover) tr>*:nth-child(25),
+table.fusiontable:has(tr > *:nth-child(26):hover) tr>*:nth-child(26),
+table.fusiontable:has(tr > *:nth-child(27):hover) tr>*:nth-child(27),
+table.fusiontable:has(tr > *:nth-child(28):hover) tr>*:nth-child(28),
+table.fusiontable:has(tr > *:nth-child(29):hover) tr>*:nth-child(29),
+table.fusiontable:has(tr > *:nth-child(30):hover) tr>*:nth-child(30),
+table.fusiontable:has(tr > *:nth-child(31):hover) tr>*:nth-child(31),
+table.fusiontable:has(tr > *:nth-child(32):hover) tr>*:nth-child(32),
+table.fusiontable:has(tr > *:nth-child(33):hover) tr>*:nth-child(33),
+table.fusiontable:has(tr > *:nth-child(34):hover) tr>*:nth-child(34),
+table.fusiontable:has(tr > *:nth-child(35):hover) tr>*:nth-child(35),
+table.fusiontable:has(tr > *:nth-child(36):hover) tr>*:nth-child(36),
+table.fusiontable:has(tr > *:nth-child(37):hover) tr>*:nth-child(37),
+table.fusiontable:has(tr > *:nth-child(38):hover) tr>*:nth-child(38),
+table.fusiontable:has(tr > *:nth-child(39):hover) tr>*:nth-child(39) {
+  background: #242424;
+}

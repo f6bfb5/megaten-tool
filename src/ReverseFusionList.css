@@ -1,0 +1,29 @@
+dialog::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+dialog {
+  border: none;
+  /* padding: 0; */
+  background: transparent;
+}
+
+dialog > div {
+  background: black;
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 8px;
+  /* transform: scale(0); */
+  /* opacity: 0; */
+  /* transition: transform 0.2s ease, opacity 0.2s ease; */
+}
+
+/* dialog.opening div {
+  transform: scale(1);
+  opacity: 1;
+}
+
+dialog.closing div {
+  transform: scale(0);
+  opacity: 0;
+} */
